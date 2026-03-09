@@ -1,0 +1,9 @@
+{
+  "ISP": {
+    "packet_loss": 1,
+    "latency_jitter": 5.821019760274981,
+    "dns_resolve_time": 4.6574,
+    "hop_count": 10.0,
+    "per_hop_rtt": 38.5206
+  }
+}

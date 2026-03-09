@@ -1,0 +1,11 @@
+{
+  "end_user_device": {
+    "avg_total_cpu": 12.755999999999998,
+    "avg_per_core": 2,
+    "avg_ram_percent": 59.56,
+    "avg_swap_percent": 3.0,
+    "avg_av_cpu": 87.32,
+    "avg_network_proc_cpu": 24.276,
+    "avg_tcp_retrans_rate": 10
+  }
+}

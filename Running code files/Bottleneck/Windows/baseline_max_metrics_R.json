@@ -1,0 +1,9 @@
+{
+  "Router-LAN-Server": {
+    "signal_strength_percent": 40,
+    "channel_congestion_percent": 70,
+    "gateway_ping_ms": 150,
+    "gateway_packet_loss_percent": 8,
+    "crc_error_rate": 10
+  }
+}

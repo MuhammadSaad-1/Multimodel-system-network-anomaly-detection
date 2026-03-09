@@ -1,0 +1,25 @@
+{
+  "ISP": {
+    "packet_loss": 1,
+    "latency_jitter": 13.366350162270288,
+    "dns_resolve_time": 9.8782,
+    "hop_count": 10.0,
+    "per_hop_rtt": 29.919
+  },
+  "Router-LAN-Server": {
+    "signal_strength_percent": 14.68,
+    "channel_congestion_percent": 22.42,
+    "gateway_ping_ms": 5.24,
+    "gateway_packet_loss_percent": 0.0,
+    "crc_error_rate": -0.04
+  },
+  "end_user_device": {
+    "avg_total_cpu": 75,
+    "avg_per_core": 75,
+    "avg_ram_percent": 80,
+    "avg_swap_percent": 30,
+    "avg_av_cpu": 150,
+    "avg_network_proc_cpu": 70,
+    "avg_tcp_retrans_rate": 10
+  }
+}
